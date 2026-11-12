@@ -1,0 +1,10 @@
+diff --git a/islandora_search_header_form.info.yml b/islandora_search_header_form.info.yml
+index ebc5b3c..84d778a 100644
+--- a/islandora_search_header_form.info.yml
++++ b/islandora_search_header_form.info.yml
+@@ -3,4 +3,4 @@ type: module
+ description: 'This module replaces the exposed sort filters, pager of search content view with the better search header form. It also provides a toggle displaying List or Grid for the search content view.'
+ package: Custom
+ version: 1.0
+-core_version_requirement: ^8 || ^9 || ^10
++core_version_requirement: ^10 || ^11 || ^12
